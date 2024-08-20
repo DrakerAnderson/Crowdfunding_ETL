@@ -93,6 +93,22 @@ subcategory.csv data:
 
 <img width="545" alt="Screenshot 2024-08-20 at 2 18 22 PM" src="https://github.com/user-attachments/assets/60e21d8c-7a52-410c-9e5c-5e505cb5e867">
 
+## End Of Project Refelction questions about ETL:
+
+
+1. What are the challenges associated with ETL?
+ETL, which stands for Extract, Transform, and Load, can be tricky because it deals with lots of data from different places. The challenges include managing huge amounts of information, making sure the data is correct and useful, and handling different formats. Basically, it's about getting all this data, cleaning it up, and putting it somewhere it can be used effectively.
+
+
+
+2. What are the benefits of ETL?
+ETL helps bring together data from many sources into one place, making it easier to look at and analyze. This is great because it makes the data cleaner and more accurate, which helps businesses make better decisions. It’s like putting all your scattered pieces of info into one tidy folder, ready for use.
+
+
+
+3. How might ETL change when moving to the cloud?
+Shifting ETL to the cloud makes it more adaptable and stronger. The cloud can handle big data more efficiently because it can adjust to your needs as they grow. It's usually cheaper and easier than managing data on your own systems. Plus, cloud services often include tools that make the whole process smoother and quicker.
+
 ## Resources
 
 
