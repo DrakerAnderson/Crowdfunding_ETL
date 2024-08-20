@@ -112,7 +112,26 @@ Shifting ETL to the cloud makes it more adaptable and stronger. The cloud can ha
 ## Resources
 
 
-#### - Class lecytures, notes, solutions
+#### - Class lectures, notes, solutions
 #### - Xpert learning Assistant and Tutoring for troubleshooting code and assistance with creating clear         and concise code
-#### - Google search
+#### - Google searches:
+
+#get a brief summary of data
+https://discuss.datasciencedojo.com/t/how-to-get-summary-statistics-of-a-pandas-dataframe-in-python/1137/2
+
+#split columns
+https://saturncloud.io/blog/how-to-split-one-column-into-multiple-columns-in-pandas-dataframe/#:~:text=One%20way%20to%20split%20a,strings%20based%20on%20a%20separator.&text=In%20the%20above%20example%2C%20we,DataFrame%20with%20the%20Name%20column.
+
+#unique names from columns to list
+https://www.listendata.com/2023/11/find-unique-values-in-column-pandas.html#:~:text=The%20unique()%20method%20returns%20a%20NumPy%20array%20of%20unique%20values.&text=Incase%20you%20want%20the%20unique,use%20the%20tolist()%20function.&text=The%20drop_duplicates()%20method%20is,DataFrame%20and%20return%20unique%20values.
+
+#rename columns
+https://saturncloud.io/blog/how-to-rename-column-and-index-with-pandas/#:~:text=Renaming%20columns%20in%20Pandas%20is,are%20the%20new%20column%20names.
+
+
+#convert columns to float data type
+https://sparkbyexamples.com/pandas/pandas-convert-string-to-float-type-dataframe/#:~:text=You%20can%20use%20the%20Pandas,or%20on%20an%20entire%20DataFrame.
+
+#check datatypes of columns
+https://stackoverflow.com/questions/40353079/pandas-how-to-check-dtype-for-all-columns-in-a-dataframe
 
