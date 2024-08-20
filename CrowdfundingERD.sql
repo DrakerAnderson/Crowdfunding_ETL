@@ -1,4 +1,6 @@
-﻿CREATE TABLE "Campaign" (
+﻿
+
+CREATE TABLE "Campaign" (
     "cf_id" INT NOT NULL,
     "contact_id" INT NOT NULL,
     "company_name" VARCHAR NOT NULL,
@@ -38,3 +40,5 @@ CREATE TABLE "Category" (
     "category" VARCHAR NOT NULL,
     CONSTRAINT "pk_Category" PRIMARY KEY ("category_id")
 );
+
+
