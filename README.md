@@ -93,7 +93,7 @@ subcategory.csv data:
 
 <img width="545" alt="Screenshot 2024-08-20 at 2 18 22 PM" src="https://github.com/user-attachments/assets/60e21d8c-7a52-410c-9e5c-5e505cb5e867">
 
-## End Of Project Refelction questions about ETL:
+## End Of Project Refelction Questions About ETL:
 
 
 1. What are the challenges associated with ETL?
