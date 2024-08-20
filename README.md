@@ -97,7 +97,7 @@ subcategory.csv data:
 
 
 1. What are the challenges associated with ETL?
-ETL, which stands for Extract, Transform, and Load, can be tricky because it deals with lots of data from different places. The challenges include managing huge amounts of information, making sure the data is correct and useful, and handling different formats. Basically, it's about getting all this data, cleaning it up, and putting it somewhere it can be used effectively.
+ETL, which stands for Extract, Transform, and Load, can be tricky because it deals with lots of data from different places. The challenges include managing huge amounts of information, making sure the data is correct and useful, and handling different formats. It only moves data from one point to another and doesn't store any of it which can make it hard to use between extraction and loading everything into a database. In this project we had to continually refresh our data from the very beginning to finalize data visualiztation.
 
 
 
