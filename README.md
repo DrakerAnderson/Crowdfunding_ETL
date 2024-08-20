@@ -22,9 +22,9 @@ contacts.xlsx data:
 <img width="1055" alt="contacts xlsx" src="https://github.com/user-attachments/assets/ebf3960a-b735-450d-91c7-e19337528e6d">
 
 
-## Clean:
+## Transform:
 
-Python and Pandas were used to the clean data. The python code to this work can be found in the ipynb file attached to this project. Here are few snapshots of the cleaned data before being loaded into final tables via SQL:
+Python and Pandas were used to the clean transform the data. The python code to this work can be found in the ipynb file attached to this project. Here are few snapshots of the cleaned data before being loaded into final tables via SQL:
 
 
 campaign csv data:
