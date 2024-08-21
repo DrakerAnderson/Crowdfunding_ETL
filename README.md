@@ -111,9 +111,16 @@ Shifting ETL to the cloud makes it more adaptable and stronger. The cloud can ha
 
 ## Resources
 
+campaign.csv
+category.csv
+contacts.csv
+contacts.xlsx
+crowdfunding.xlsx
+subcategory.csv
+~$crowdfunding.xlsx
 
 #### - Class lectures, notes, solutions
-#### - Xpert learning Assistant and Tutoring for troubleshooting code and assistance with creating clear         and concise code
+#### - Xpert learning Assistant and Tutoring for troubleshooting code and assistance with creating clear and concise code
 #### - Google searches:
 
 #get a brief summary of data
